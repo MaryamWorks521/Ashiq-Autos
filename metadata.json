@@ -1,0 +1,6 @@
+{
+  "name": "Ashiq Autos - Professional Automotive Care in Karachi",
+  "description": "Ashiq Autos provides reliable automotive maintenance and repair services in Ratan Talao, Karachi. Call 021-32771312 for engine inspection, oil changes, brake service, and auto care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
